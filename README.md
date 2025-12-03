@@ -8,9 +8,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p
 
 </details>
 
@@ -41,15 +39,10 @@
 
 <hr/>
 
-## 📊 GitHub Stats
-![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarwanAmr&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanAmr&layout=compact&theme=tokyonight)
-
-<hr/>
 
 ## 📫 Contact Me
 - 💬 Telegram: [@your_username](https://t.me/your_username)
-- 📧 Email: youremail@example.com
+- 📧 Email: marwan.amr2026 @gmail.com
 
 ---
 ✨ *Always building. Always learning.*
