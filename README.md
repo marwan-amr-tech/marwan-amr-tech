@@ -76,6 +76,11 @@ I love to talk about trending ⚡ technology ⚡, I have a huge attraction on �
 
 </div>
 
+<hr>
+
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+
 
 ## 📫 Contact Me
 - 📧 Email: marwan.amr2026 @gmail.com
