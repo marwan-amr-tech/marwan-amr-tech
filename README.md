@@ -47,10 +47,5 @@
 
 <hr/>
 
-## 📫 Contact Me
-- 💬 Telegram: [@your_username](https://t.me/your_username)
-- 📧 Email: youremail@example.com
 
----
-✨ *Always building. Always learning.*
 
